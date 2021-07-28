@@ -211,7 +211,7 @@ def user_stats(df, city):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-' * 40)
 
-
+# This section asks the user if they would like additional raw data.
 def raw_data(df):
     rd_input = 0
     while True:
