@@ -1,13 +1,14 @@
 ### Making some changes per step 3.B. in Git Lesson
-
+### Updating Comments to PY File per step 4.C
 
 import time
 import pandas as pd
 
-
+# This section lists data files which are consumed by the script.
 city_data = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}
+# This section lists acceptable ranges of input for some various functions.
 city_range = {'chicago', 'new york city', 'washington'}
 month_range = {'january', 'february', 'march', 'april', 'may', 'june'}
 time_range = {'month', 'day', 'both', 'none'}
