@@ -6,7 +6,7 @@ Creating additional changes at 10:49AM Central
 
 ### Project Title
 Brandon's first Git project
-
+This project is very important to my skill set.
 
 ### Description
 This is part of the Udacity Data Science program
@@ -18,4 +18,5 @@ Including bikeshare python files, but their file names have been added to the .g
 ### Credits
 Credit to Udacity
 https://github.com/udacity/pdsnd_github
+All files and source work were included as part of the Udacity Data Science Program
 
