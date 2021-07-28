@@ -49,7 +49,7 @@ def get_filters(city, month, day):
                 continue
             day = 'all'
             break
-
+        # This section asks the user if they would like to filter by day of week.
         elif filter_input == 'day':
             month = 'all'
             day = input(
