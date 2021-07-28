@@ -2,12 +2,15 @@
 
 ### Date created
 First updated 7/28/2021
+Creating additional changes at 10:49AM Central
 
 ### Project Title
 Brandon's first Git project
 
+
 ### Description
 This is part of the Udacity Data Science program
+Making additional changes per step 3.B.
 
 ### Files used
 Including bikeshare python files, but their file names have been added to the .gitignore
